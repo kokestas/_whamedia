@@ -1,0 +1,63 @@
+{
+  "error": {
+    "code": "parameter_missing",
+    "doc_url": "https://stripe.com/docs/error-codes/parameter-missing",
+    "message": "Must provide source or customer.",
+    "type": "invalid_request_error"
+  }
+}
+
+{
+  "error": {
+    "code": "parameter_missing",
+    "doc_url": "https://stripe.com/docs/error-codes/parameter-missing",
+    "message": "Must provide source or customer.",
+    "type": "invalid_request_error"
+  }
+}
+
+{
+  "error": {
+    "code": "parameter_missing",
+    "doc_url": "https://stripe.com/docs/error-codes/parameter-missing",
+    "message": "Must provide source or customer.",
+    "type": "invalid_request_error"
+  }
+}
+
+{
+  "error": {
+    "code": "parameter_missing",
+    "doc_url": "https://stripe.com/docs/error-codes/parameter-missing",
+    "message": "Must provide source or customer.",
+    "type": "invalid_request_error"
+  }
+}
+
+{
+  "error": {
+    "code": "parameter_missing",
+    "doc_url": "https://stripe.com/docs/error-codes/parameter-missing",
+    "message": "Must provide source or customer.",
+    "type": "invalid_request_error"
+  }
+}
+
+{
+  "error": {
+    "code": "parameter_missing",
+    "doc_url": "https://stripe.com/docs/error-codes/parameter-missing",
+    "message": "Must provide source or customer.",
+    "type": "invalid_request_error"
+  }
+}
+
+{
+  "error": {
+    "code": "parameter_missing",
+    "doc_url": "https://stripe.com/docs/error-codes/parameter-missing",
+    "message": "Must provide source or customer.",
+    "type": "invalid_request_error"
+  }
+}
+
